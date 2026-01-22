@@ -1,3 +1,3 @@
 # NewNewNew
-Testing repository
+Testing repository.
 This is the first markdown line.
